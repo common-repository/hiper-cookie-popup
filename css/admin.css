@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600&subset=latin-ext');
+.wrap {font-family: 'Open Sans', sans-serif;padding-top: 40px;font-weight:400}
+h1.hero{font-size:58px;font-weight:300}
+.madeby{margin-bottom:5rem;display:block;}
+label {font-size: 1.2rem;font-weight:600}
